@@ -12,4 +12,5 @@ More open source tools can also be found in the GitHub repositories of some of o
 [Arnim Bleier](https://github.com/arnim), 
 [Chung-hong Chan](https://github.com/chainsawriot), 
 [David Schoch](https://github.com/schochastics),
+[Jun Sun](https://github.com/yfiua),
 [Maximilian Linde](https://github.com/maxlinde)
