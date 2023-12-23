@@ -14,3 +14,5 @@ More open source tools can also be found in the GitHub repositories of some of o
 [David Schoch](https://github.com/schochastics),
 [Jun Sun](https://github.com/yfiua),
 [Maximilian Linde](https://github.com/maxlinde)
+
+<sub>Logo credit: Sophie Taeuber-Arp (1889 - 1943); vectorized version by Myriam Thyes (CC BY-SA 4.0) [[source](https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp#/media/File:Taeuber-Arp-quatre-espaces-a-cercles-rouges-roulants-1932-gouache-papier.svg)]</sub>
