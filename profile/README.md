@@ -9,9 +9,11 @@ to develop new computational tools for social science research.
 This account contains open source material (predominantly R packages) created
 and maintained by our members. 
 More open source tools can also be found in the GitHub repositories of some of our members:  
+[Paul Balluff](https://github.com/mrwunderbar666),
 [Arnim Bleier](https://github.com/arnim), 
 [Chung-hong Chan](https://github.com/chainsawriot), 
 [David Schoch](https://github.com/schochastics),
+[Raniere Silva](https://github.com/rgaiacs),
 [Jun Sun](https://github.com/yfiua),
 [Maximilian Linde](https://github.com/maxlinde)
 
