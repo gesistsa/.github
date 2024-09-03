@@ -8,7 +8,7 @@ to develop new computational tools for social science research.
 
 This account contains open source material (predominantly R packages) created
 and maintained by our members. 
-More open source tools can also be found in the GitHub repositories of some of our members:  
+More open source tools can also be found in the GitHub repositories of individual members:  
 [Paul Balluff](https://github.com/mrwunderbar666),
 [Arnim Bleier](https://github.com/arnim), 
 [Chung-hong Chan](https://github.com/chainsawriot), 
