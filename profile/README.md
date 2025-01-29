@@ -13,7 +13,6 @@ More open source tools can also be found in the GitHub repositories of individua
 [Arnim Bleier](https://github.com/arnim), 
 [Chung-hong Chan](https://github.com/chainsawriot), 
 [Christina Viehmann](https://github.com/cviehmann),
-[David Schoch](https://github.com/schochastics),
 [Raniere Silva](https://github.com/rgaiacs),
 [Jun Sun](https://github.com/yfiua),
 [Maximilian Linde](https://github.com/maxlinde)
