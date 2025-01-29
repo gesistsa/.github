@@ -12,6 +12,7 @@ More open source tools can also be found in the GitHub repositories of individua
 [Paul Balluff](https://github.com/mrwunderbar666),
 [Arnim Bleier](https://github.com/arnim), 
 [Chung-hong Chan](https://github.com/chainsawriot),
+[Julian Dehne](https://github.com/juliandehne),
 [Maximilian Linde](https://github.com/maxlinde),
 [Yannik Peters](https://github.com/YannikPeters),
 [Raniere Silva](https://github.com/rgaiacs),
