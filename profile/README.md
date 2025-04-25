@@ -24,5 +24,3 @@ Alumni:
 * [Julian Dehne](https://github.com/juliandehne)
 * [David Schoch](https://github.com/schochastics)
 
-
-<sub>Logo credit: *Quatre espacs á cercles rouges roulants* by Sophie Taeuber-Arp (1889 - 1943); vectorized version by Myriam Thyes (CC BY-SA 4.0) [[source](https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp#/media/File:Taeuber-Arp-quatre-espaces-a-cercles-rouges-roulants-1932-gouache-papier.svg)]</sub>
